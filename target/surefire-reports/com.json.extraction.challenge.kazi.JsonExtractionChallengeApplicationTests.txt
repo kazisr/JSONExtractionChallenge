@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.json.extraction.challenge.kazi.JsonExtractionChallengeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.432 s -- in com.json.extraction.challenge.kazi.JsonExtractionChallengeApplicationTests

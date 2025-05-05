@@ -1,0 +1,4 @@
+com\json\extraction\challenge\kazi\JsonExtractionChallengeApplication.class
+com\json\extraction\challenge\kazi\service\JsonExtractorService.class
+com\json\extraction\challenge\kazi\model\ImageRequest.class
+com\json\extraction\challenge\kazi\controller\ImageController.class
