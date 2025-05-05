@@ -10,7 +10,7 @@ RUN apt-get update && \
 WORKDIR /app
 
 
-COPY target/your-app-name-0.0.1-SNAPSHOT.jar app.jar
+COPY target/kazi-0.0.1-SNAPSHOT.jar app.jar
 
 
 
