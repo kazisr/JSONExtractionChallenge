@@ -6,6 +6,7 @@ RUN apt-get update && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
+ENV TESSDATA_PREFIX=/src/main/resources/tessdata
 
 WORKDIR /app
 
