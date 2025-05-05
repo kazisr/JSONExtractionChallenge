@@ -19,7 +19,6 @@ public class ImageController {
     public ResponseEntity<Map<String, Object>> extractJson(@RequestBody ImageRequest request) {
         Map<String, Object> response = new HashMap<>();
         try {
-            System.err.println(extractorService.extractJsonFromImage(request.getImageBase64()));
             Map<String, Object> data = extractorService.extractJsonFromImage(request.getImageBase64());
             response.put("success", true);
             response.put("data", data);
